@@ -1,4 +1,4 @@
-# JWT TOKEN
+# barear authentication token demo - PASSPORT
 
 # Setup
 * Clone Repo
